@@ -1,0 +1,39 @@
+body {
+    background-color: gray;
+}
+h1 {
+    font-family: Arial;
+    font-style: italic;
+}
+.blu {
+    color:blue;
+}
+.contenitore {
+    text-align: center;
+    border-radius: 10px;
+    background-color: green;
+    width: 50%;
+    height: 50px;
+    margin: auto;
+}
+.centro {
+    text-align: center;
+}
+.inter {
+    margin-top: 125px;
+    border: 2px solid orange;
+    height: 500px;
+    width: 500px;
+}
+.verde {
+    color: green;
+}
+.medio {
+    font-size: 20px;
+}
+.rosso {
+    color:red;
+}
+.grande {
+    font-size: 25px;
+}
